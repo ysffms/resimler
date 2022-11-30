@@ -1,0 +1,2 @@
+# resimler
+resimler için klasör
